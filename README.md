@@ -10,8 +10,8 @@ Raw event-level data was extracted and processed using SQL to ensure accuracy an
 
 Key steps included:
 
-•Filtering relevant funnel stages: session_start → purchase<brb>
-•Removing duplicate user interactions using ROW_NUMBER() to ensure each user is counted once per stage<brb>
-•Aggregating unique users at each stage to accurately reflect funnel progression<brb>
-•Segmenting data by device category (desktop, mobile, tablet) and top 3 countries (United States, India, Canada)<brb>
-•Exporting cleaned data to Excel for drop-off rate calculations and funnel visualization<brb>
+•Filtering relevant funnel stages: session_start → purchase <brb>
+•Removing duplicate user interactions using ROW_NUMBER() to ensure each user is counted once per stage <brb>
+•Aggregating unique users at each stage to accurately reflect funnel progression <brb>
+•Segmenting data by device category (desktop, mobile, tablet) and top 3 countries (United States, India, Canada) <brb>
+•Exporting cleaned data to Excel for drop-off rate calculations and funnel visualization <brb>
