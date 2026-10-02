@@ -12,7 +12,7 @@ This project analyzes the customer journey in an e-commerce environment, trackin
 
 # 3.Tools & Technologies
 •SQL – Data cleaning, transformation, and analysis<br>
-•Excel – Data modeling, drop-off calculations, and funnel visualization<br>
+•Excel – Data modeling, drop-off calculations, and funnel visualization<br> 
 
 # 4.Data Cleaning & Preparation (SQL)
 
