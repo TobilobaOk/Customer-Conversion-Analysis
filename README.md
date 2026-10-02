@@ -70,7 +70,7 @@ Very few users complete purchases after initiating checkout<br>
 A funnel chart was created in Excel to visualize user drop-offs across each stage.
 
 
-<img width="415" height="187" alt="image" src="https://github.com/user-attachments/assets/516d3c1a-d6b1-4e65-af1d-e197ccc71a11" />
+<img width="415" height="187" alt="image" src="https://github.com/user-attachments/assets/516d3c1a-d6b1-4e65-af1d-e197ccc71a11" /> 
 
 <img width="416" height="103" alt="image" src="https://github.com/user-attachments/assets/2548475d-37f5-4d4a-a208-00b70c9b8c31" />
 
